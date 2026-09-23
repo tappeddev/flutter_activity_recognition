@@ -5,6 +5,7 @@
 //  Created by Woo Jin Hwang on 9/5/24.
 //
 
+import Flutter
 import Foundation
 
 protocol ActivityDataHandler {
