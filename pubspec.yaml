@@ -22,4 +22,4 @@ flutter:
         package: com.pravera.flutter_activity_recognition
         pluginClass: FlutterActivityRecognitionPlugin
       ios:
-        pluginClass: FlutterActivityRecognitionPlugin
+        pluginClass: SwiftFlutterActivityRecognitionPlugin
