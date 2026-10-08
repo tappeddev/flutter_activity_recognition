@@ -1,3 +1,9 @@
+## 5.0.0
+
+* [**FEAT**] Add Swift Package Manager support
+* [**BREAKING**] Raise minimum iOS version to 13.0
+* [**CHORE**] Update dependency constraints to `flutter: '>=3.41.0'`
+
 ## 4.0.0
 
 * [**RENAME**] Rename `PermissionRequestResult` to `ActivityPermission`
